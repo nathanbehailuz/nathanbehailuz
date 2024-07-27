@@ -9,7 +9,7 @@ I am Nathan, a rising Junior at NYU, majoring in Computer Science with minors in
 - **Data Science**
 
 ## Languages and Tools
-- **Programming Languages:** Python, C++, C, JavaScript, ~~HTML~~, ~~CSS
+- **Programming Languages:** Python, C++, C, JavaScript, ~~HTML~~, ~~CSS~~
 - **Frameworks and Libraries:** Bootstrap, React, Pandas, PyTorch, NumPy, Pygame, Google APIs, STL
 - **Tools:** Git, Docker, Jupyter Notebook, VSCode
 
