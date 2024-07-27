@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello World! 
+
+I am Nathan, a rising Junior at NYU, majoring in Computer Science with minors in Applied Mathematics and Economics.
+
+## Skills and Interests
+- **Software Engineering:** Building scalable and maintainable software solutions.
+- **Web Development:** Crafting responsive and interactive web applications.
+- **AI and Machine Learning:** Developing intelligent systems and models.
+- **Data Science:** Analyzing and interpreting complex data sets to make informed decisions.
+
+## Languages and Tools
+- **Programming Languages:** Python, C++, C, JavaScript, HTML, CSS
+- **Frameworks and Libraries:** Bootstrap, React, Pandas, PyTorch
+- **Tools:** Git, Docker, Jupyter Notebook, VSCode,
+
+## Favorite Projects
+- **[AI plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird/tree/main):** An AI agent that learns to play Flappy Bird using reinforcement learning techniques.
+- **Amazon Replica:** A clone of the Amazon website, focusing on replicating the UI/UX and implementing basic e-commerce functionalities.
+
+## Work Experience
+- **Big Data Research Assistant:** Conducting research on large datasets, optimizing data processing pipelines, and extracting meaningful insights.
+
+
