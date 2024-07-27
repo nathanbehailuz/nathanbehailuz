@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 I am Nathan, a rising Junior at NYU, majoring in Computer Science with minors in Applied Mathematics and Economics.
 
 ## Skills and Interests
-- **Software Engineering:** Building scalable and maintainable software solutions.
-- **Web Development:** Crafting responsive and interactive web applications.
-- **AI and Machine Learning:** Developing intelligent systems and models.
-- **Data Science:** Analyzing and interpreting complex data sets to make informed decisions.
+- **Software Engineering** 
+- **Web Development**
+- **AI and Machine Learning**
+- **Data Science**
 
 ## Languages and Tools
 - **Programming Languages:** Python, C++, C, JavaScript, HTML, CSS
