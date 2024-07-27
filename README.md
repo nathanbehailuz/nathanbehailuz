@@ -26,7 +26,7 @@ I am Nathan, a rising Junior at NYU, majoring in Computer Science with minors in
 ## Languages and Tools
 - **Programming Languages:** Python, C++, C, JavaScript, HTML, CSS
 - **Frameworks and Libraries:** Bootstrap, React, Pandas, PyTorch
-- **Tools:** Git, Docker, Jupyter Notebook, VSCode,
+- **Tools:** Git, Docker, Jupyter Notebook, VSCode
 
 ## Favorite Projects
 - **[AI plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird/tree/main):** An AI agent that learns to play Flappy Bird using reinforcement learning techniques.
