@@ -22,4 +22,4 @@ I am Nathan, a rising Junior at NYU, majoring in Computer Science with minors in
 
 ## Work Experience
 - **Big Data Research Assistant:**  
-  Conducting research on datasets from colonial Ireland (37k+ pages, 1.5mn+ entries), optimizing data processing pipelines, extracting meaningful insights, and running statistics on the results.
+  Conducting research on datasets from colonial Ireland (37k+ pages, 1.5mn+ entries), optimizing data processing pipelines, extracting meaningful insights, and running statistical analysis on the results.
