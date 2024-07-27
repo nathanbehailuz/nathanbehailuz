@@ -14,10 +14,10 @@ I am Nathan, a rising Junior at NYU, majoring in Computer Science with minors in
 - **Tools:** Git, Docker, Jupyter Notebook, VSCode
 
 ## Favorite Projects
-- **[AI plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)** (tags: AI/ML):  
+- **[AI plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)** `AI/ML`:  
   An AI agent that learns to play Flappy Bird using NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.
 
-- **[Amazon Replica](https://github.com/nathanbehailuz/amazon-replica)** (tags: webdev):  
+- **[Amazon Replica](https://github.com/nathanbehailuz/amazon-replica)** `webdev`:  
   A clone of the Amazon website, focusing on replicating its design and functionalities.
 
 ## Work Experience
