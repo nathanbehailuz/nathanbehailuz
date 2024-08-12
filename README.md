@@ -1,6 +1,6 @@
 # Hello World! 
 
-I am Nathan, a rising Junior at NYU, majoring in Computer Science with minors in Applied Mathematics and Economics.
+I am Nathan, a rising Junior at New York University, majoring in Computer Science with minors in Applied Mathematics and Economics. I am currently working as a Big Data research assistant under Professor Gabriel-Kohler Derrick at NYU and Jeremy Bowels at University College London. My role involves extracting precolonial Ireland data from 40,000 pages of historical documents.
 
 ## Skills and Interests
 - **Software Engineering**
