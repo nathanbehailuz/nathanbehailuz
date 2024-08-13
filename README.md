@@ -20,8 +20,8 @@ My name is Nathan, a rising junior at New York University, majoring in Computer 
 
 - **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**  
   **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.  
-  **🧠 Concepts Used:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming  
-  **⚒️ Libraries:** Pygame, NEAT
+  **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming  
+  **⚒️ Tools:** Pygame, NEAT
 
 - **[Churn Prediction](https://github.com/nathanbehailuz/churn-prediction)**  
   **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.  
