@@ -23,21 +23,21 @@ My name is Nathan, a rising junior at New York University, majoring in Computer 
   - **⚒️ Tools:** TensorFlow, PIL, CV2, Scikit-learn.
 
 - **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**  
-  **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.  
-  **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming  
-  **⚒️ Tools:** Pygame, NEAT
+  - **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.  
+  - **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming  
+  - **⚒️ Tools:** Pygame, NEAT
 
 - **[Churn Prediction](https://github.com/nathanbehailuz/churn-prediction)**  
-  **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.  
-  **🧠 Concepts:** Data preprocessing, exploratory data analysis, feature engineering, model selection, training, and evaluation  
-  **⚒️ Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
+  - **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.  
+  - **🧠 Concepts:** Data preprocessing, exploratory data analysis, feature engineering, model selection, training, and evaluation  
+  - **⚒️ Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
 
 ### Web Development
 
 - **[Amazon Replica](https://github.com/nathanbehailuz/amazon-replica)**  
-  **🎯 Goal:** Develop a clone of the Amazon website, focusing on replicating its design and functionalities.  
-  **🧠 Concepts:** Model-View-Controller (MVC) framework  
-  **⚒️ Tools:** HTML, CSS, JavaScript, Date.js, Jasmine
+  - **🎯 Goal:** Develop a clone of the Amazon website, focusing on replicating its design and functionalities.  
+  - **🧠 Concepts:** Model-View-Controller (MVC) framework  
+  - **⚒️ Tools:** HTML, CSS, JavaScript, Date.js, Jasmine
 
 
 ## Work Experience
