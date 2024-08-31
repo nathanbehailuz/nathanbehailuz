@@ -17,7 +17,7 @@ My name is Nathan, a rising junior at New York University, majoring in Computer 
 ## Favorite Projects
 
 ### AI/ML/DS
-- **[Brain Tumor Detection]([https://github.com/nathanbehailuz/AI-plays-Flappy-Bird](https://github.com/nathanbehailuz/brain-tumor-detection))**
+- **[Brain Tumor Detection]([https://github.com/nathanbehailuz/AI-plays-Flappy-Bird](https://github.com/nathanbehailuz/brain-tumor-detection)**
   **🎯 Goal:** Training a CNN model (with a Flask web app) accurately classifying brain tumors from MRI scans using Python and TensorFlow. 
   **🧠 Concepts:** Normaliziation, categorical_crossentropy(loss), softmax(activation), adam(optimizer). 
   **⚒️ Tools:** Tensorflow, PIL, CV2, Scikit-learn
