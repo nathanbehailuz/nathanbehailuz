@@ -17,10 +17,10 @@ My name is Nathan, a rising junior at New York University, majoring in Computer 
 ## Favorite Projects
 
 ### AI/ML/DS
-- **[Brain Tumor Detection]([https://github.com/nathanbehailuz/AI-plays-Flappy-Bird](https://github.com/nathanbehailuz/brain-tumor-detection)**
-  **🎯 Goal:** Training a CNN model (with a Flask web app) accurately classifying brain tumors from MRI scans using Python and TensorFlow. 
-  **🧠 Concepts:** Normaliziation, categorical_crossentropy(loss), softmax(activation), adam(optimizer). 
-  **⚒️ Tools:** Tensorflow, PIL, CV2, Scikit-learn
+- **[Brain Tumor Detection](https://github.com/nathanbehailuz/brain-tumor-detection)**
+  - **🎯 Goal:** Training a CNN model (with a Flask web app) to accurately classify brain tumors from MRI scans using Python and TensorFlow. 
+  - **🧠 Concepts:** Normalization, `categorical_crossentropy` (loss), `softmax` (activation), `adam` (optimizer). 
+  - **⚒️ Tools:** TensorFlow, PIL, CV2, Scikit-learn.
 
 - **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**  
   **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.  
