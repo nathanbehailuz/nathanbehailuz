@@ -1,10 +1,11 @@
-###### as of Aug 2024
+###### as of May 2025
 
 # Hello World!
 
-My name is Nathan, a rising junior at New York University, majoring in Computer Science with minors in Applied Mathematics and Economics. I am currently working as a Big Data research assistant under the guidance of Professor Gabriel-Kohler Derrick at NYU and Professor Jeremy Bowels at University College London. My work involves extracting precolonial Ireland data from 40,000 pages using OCR, followed by post-processing and data analysis.
+My name is Nathan, a rising senior at New York University, majoring in Computer Science with minors in Applied Mathematics. I currently work as a Machine Learning Research Assistant at the [Center for Responsible AI](airesponsibly.net) at NYU under Professor [Julia Stoyanovich] (https://engineering.nyu.edu/faculty/julia-stoyanovich), where I research multi-group intersectional fairness in classification problems. This includes implementing and evaluating fairness-aware algorithms, designing experiments, refining models, and analyzing fairness thresholds and regions.
 
-I also currently work as a **Machine Learning Research Assistant** at the **Center for Responsible AI** at NYU NYC, where I research multi-group intersectional fairness in classification problems. This includes implementing and evaluating fairness-aware algorithms, designing experiments, refining models, and analyzing fairness thresholds and regions.
+I am also working as a Big Data research assistant under the guidance of Professor Gabriel-Kohler Derrick at NYU and Professor Jeremy Bowels at University College London. Our work involves extracting precolonial Ireland data from 40,000 pages using OCR, followed by post-processing and data analysis.
+
 
 ## Skills and Interests
 
@@ -21,7 +22,13 @@ I also currently work as a **Machine Learning Research Assistant** at the **Cent
 
 ### Currently Building
 
-* **[AutoVert](https://github.com/nathanbehailuz/swe-final-project)**: A vertically integrated media-sharing platform built with the MERN stack, focused on secure, private sharing among verified friend groups using an f-key system.
+#### [AutoVert](https://github.com/nathanbehailuz/swe-final-project)  
+*A full-featured vehicle management and diagnostic app built using Flutter and Firebase.*
+
+- 🔧 Manage vehicles, store VINs, track maintenance  
+- 🧠 AI-powered diagnostics (text, voice, image input)  
+- 🗺️ Locate nearby garages and generate/share PDF reports  
+- 🔔 Schedule maintenance and receive service reminders  
 
 ## Favorite Projects
 
