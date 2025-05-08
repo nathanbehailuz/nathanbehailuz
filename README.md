@@ -2,9 +2,10 @@
 
 # Hello World!
 
-My name is Nathan, a rising senior at New York University, majoring in Computer Science with minors in Applied Mathematics. I currently work as a Machine Learning Research Assistant at the [Center for Responsible AI](airesponsibly.net) at NYU under Professor [Julia Stoyanovich] (https://engineering.nyu.edu/faculty/julia-stoyanovich), where I research multi-group intersectional fairness in classification problems. This includes implementing and evaluating fairness-aware algorithms, designing experiments, refining models, and analyzing fairness thresholds and regions.
+I'm Nathan, a rising senior at New York University majoring in Computer Science, with minors in Applied Mathematics. I currently serve as a Machine Learning Research Assistant at the [Center for Responsible AI](https://airesponsibly.net) under Professor [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), where I focus on multi-group intersectional fairness in classification problems. My work includes implementing and evaluating fairness-aware algorithms, designing experiments, refining predictive models, and analyzing fairness thresholds and regions.
 
-I am also working as a Big Data research assistant under the guidance of Professor Gabriel-Kohler Derrick at NYU and Professor Jeremy Bowels at University College London. Our work involves extracting precolonial Ireland data from 40,000 pages using OCR, followed by post-processing and data analysis.
+In parallel, I work as a Big Data Research Assistant with Professor Gabriel-Kohler Derrick at NYU and Professor Jeremy Bowels at University College London. This project involves extracting structured data from over 40,000 pages of historical records on precolonial Ireland using OCR, followed by extensive post-processing and socio-economic analysis.
+
 
 
 ## Skills and Interests
