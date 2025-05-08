@@ -1,47 +1,85 @@
+Here's your updated profile with the requested edits:
+
+---
+
 ###### as of Aug 2024
 
-# Hello World! 
+# Hello World!
+
 My name is Nathan, a rising junior at New York University, majoring in Computer Science with minors in Applied Mathematics and Economics. I am currently working as a Big Data research assistant under the guidance of Professor Gabriel-Kohler Derrick at NYU and Professor Jeremy Bowels at University College London. My work involves extracting precolonial Ireland data from 40,000 pages using OCR, followed by post-processing and data analysis.
+
+I also currently work as a **Machine Learning Research Assistant** at the **Center for Responsible AI** at NYU NYC, where I research multi-group intersectional fairness in classification problems. This includes implementing and evaluating fairness-aware algorithms, designing experiments, refining models, and analyzing fairness thresholds and regions.
 
 ## Skills and Interests
 
-- **AI / Machine Learning**
-- **Data Science**
-- **Software Engineering**
-- **Web Development**
+* **AI / Machine Learning**
+* **Data Science**
+* **Software Engineering**
+* **Web Development**
 
 ## Languages and Tools
 
-- **Programming Languages:** Python, C++, C, JavaScript, HTML, CSS
-- **Frameworks and Libraries:** PyTorch, TensorFlow, Scikit-learn, Matplotlib, NumPy, Pandas, Bootstrap, React, Pygame, Google APIs, STL
-- **Tools:** Git, GitHub, Docker, Jupyter Notebook, VSCode
+* **Programming Languages:** Python, C++, C, JavaScript, HTML, CSS
+* **Frameworks and Libraries:** PyTorch, TensorFlow, Scikit-learn, Matplotlib, NumPy, Pandas, Bootstrap, React, Pygame, Google APIs, STL
+* **Tools:** Git, GitHub, Docker, Jupyter Notebook, VSCode
+
+### Currently Building
+
+* **[AutoVert](https://github.com/nathanbehailuz/swe-final-project)**: A vertically integrated media-sharing platform built with the MERN stack, focused on secure, private sharing among verified friend groups using an f-key system.
 
 ## Favorite Projects
 
 ### AI/ML/DS
-- **[Brain Tumor Detection](https://github.com/nathanbehailuz/brain-tumor-detection)**
-  - **🎯 Goal:** Training a CNN model (with a Flask web app) to accurately classify brain tumors from MRI scans using Python and TensorFlow. 
-  - **🧠 Concepts:** Normalization, `categorical_crossentropy` (loss), `softmax` (activation), `adam` (optimizer). 
-  - **⚒️ Tools:** TensorFlow, PIL, CV2, Scikit-learn.
 
-- **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**  
-  - **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.  
-  - **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming  
-  - **⚒️ Tools:** Pygame, NEAT
+* **[Brain Tumor Detection](https://github.com/nathanbehailuz/brain-tumor-detection)**
 
-- **[Churn Prediction](https://github.com/nathanbehailuz/churn-prediction)**  
-  - **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.  
-  - **🧠 Concepts:** Data preprocessing, exploratory data analysis, feature engineering, model selection, training, and evaluation  
-  - **⚒️ Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
+  * **🎯 Goal:** Training a CNN model (with a Flask web app) to accurately classify brain tumors from MRI scans using Python and TensorFlow.
+  * **🧠 Concepts:** Normalization, `categorical_crossentropy` (loss), `softmax` (activation), `adam` (optimizer).
+  * **⚒️ Tools:** TensorFlow, PIL, CV2, Scikit-learn
+
+* **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**
+
+  * **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.
+  * **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming
+  * **⚒️ Tools:** Pygame, NEAT
+
+* **[Churn Prediction](https://github.com/nathanbehailuz/churn-prediction)**
+
+  * **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.
+  * **🧠 Concepts:** Data preprocessing, exploratory data analysis, feature engineering, model selection, training, and evaluation
+  * **⚒️ Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
+
+* **[ML from Scratch](https://github.com/nathanbehailuz/ml-from-scratch)**
+
+  * **🎯 Goal:** Build machine learning algorithms from the ground up in Python to deepen understanding of their core logic and mathematical foundations.
+  * **🧠 Concepts and Projects:**
+
+    * **Linear Regression:** Boston Housing – Gradient descent, normalization
+    * **Logistic Regression:** Breast Cancer – Sigmoid, binary classification
+    * **Support Vector Machines:** Margin-based classification – Kernels, soft/hard margin
+    * **Decision Trees:** Spam & Iris datasets – Gini impurity, recursive tree building
+    * **KNN & K-Means Clustering:** Image compression & classification
+    * **Deep Neural Networks:** CIFAR-10 – Backpropagation, Inception model
+    * **GANs:** Anime face generation – Generator-discriminator dynamics
 
 ### Web Development
 
-- **[Amazon Replica](https://github.com/nathanbehailuz/amazon-replica)**  
-  - **🎯 Goal:** Develop a clone of the Amazon website, focusing on replicating its design and functionalities.  
-  - **🧠 Concepts:** Model-View-Controller (MVC) framework  
-  - **⚒️ Tools:** HTML, CSS, JavaScript, Date.js, Jasmine
+* **[Amazon Replica](https://github.com/nathanbehailuz/amazon-replica)**
 
+  * **🎯 Goal:** Develop a clone of the Amazon website, focusing on replicating its design and functionalities.
+  * **🧠 Concepts:** Model-View-Controller (MVC) framework
+  * **⚒️ Tools:** HTML, CSS, JavaScript, Date.js, Jasmine
 
 ## Work Experience
-- **Big Data Research Assistant:**  
+
+* **Machine Learning Research Assistant**
+  *Center for Responsible AI, NYU NYC (Sept 2024 – present)*
+  Researching multi-group intersectional fairness to develop models that mitigate bias in classification problems, including analyzing fairness regions and thresholds. Implementing and evaluating fairness-aware algorithms, designing experiments, refining models, and analyzing fairness outcomes.
+
+* **Big Data Research Assistant**
+  *NYU & University College London*
   Conducting research on datasets from colonial Ireland (37k+ pages, 1.5mn+ entries), optimizing data processing pipelines, extracting meaningful insights, and running statistical analysis on the results.
+
+---
+
+Would you like a PDF export or markdown version of this profile for your resume or GitHub README?
