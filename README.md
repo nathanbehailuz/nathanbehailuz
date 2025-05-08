@@ -76,13 +76,11 @@ In parallel, I work as a Big Data Research Assistant with Professor Gabriel-Kohl
 ## Work Experience
 
 * **Machine Learning Research Assistant**
-  *Center for Responsible AI, NYU NYC (Sept 2024 – present)*
+  *Center for Responsible AI, NYU*
   Researching multi-group intersectional fairness to develop models that mitigate bias in classification problems, including analyzing fairness regions and thresholds. Implementing and evaluating fairness-aware algorithms, designing experiments, refining models, and analyzing fairness outcomes.
 
 * **Big Data Research Assistant**
-  *NYU & University College London*
+  *NYU Abu Dhabi*
   Conducting research on datasets from colonial Ireland (37k+ pages, 1.5mn+ entries), optimizing data processing pipelines, extracting meaningful insights, and running statistical analysis on the results.
 
----
 
-Would you like a PDF export or markdown version of this profile for your resume or GitHub README?
