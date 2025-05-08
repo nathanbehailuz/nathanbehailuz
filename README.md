@@ -34,25 +34,6 @@ In parallel, I work as a Big Data Research Assistant with Professor Gabriel-Kohl
 ## Favorite Projects
 
 ### AI/ML/DS
-
-* **[Brain Tumor Detection](https://github.com/nathanbehailuz/brain-tumor-detection)**
-
-  * **🎯 Goal:** Training a CNN model (with a Flask web app) to accurately classify brain tumors from MRI scans using Python and TensorFlow.
-  * **🧠 Concepts:** Normalization, `categorical_crossentropy` (loss), `softmax` (activation), `adam` (optimizer).
-  * **⚒️ Tools:** TensorFlow, PIL, CV2, Scikit-learn
-
-* **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**
-
-  * **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.
-  * **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming
-  * **⚒️ Tools:** Pygame, NEAT
-
-* **[Churn Prediction](https://github.com/nathanbehailuz/churn-prediction)**
-
-  * **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.
-  * **🧠 Concepts:** Data preprocessing, exploratory data analysis, feature engineering, model selection, training, and evaluation
-  * **⚒️ Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
-
 * **[ML from Scratch](https://github.com/nathanbehailuz/ml-from-scratch)**
 
   * **🎯 Goal:** Build machine learning algorithms from the ground up in Python to deepen understanding of their core logic and mathematical foundations.
@@ -65,6 +46,24 @@ In parallel, I work as a Big Data Research Assistant with Professor Gabriel-Kohl
     * **KNN & K-Means Clustering:** Image compression & classification
     * **Deep Neural Networks:** CIFAR-10 – Backpropagation, Inception model
     * **GANs:** Anime face generation – Generator-discriminator dynamics
+
+* **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**
+
+  * **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.
+  * **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming
+  * **⚒️ Tools:** Pygame, NEAT
+   
+* **[Brain Tumor Detection](https://github.com/nathanbehailuz/brain-tumor-detection)**
+
+  * **🎯 Goal:** Training a CNN model (with a Flask web app) to accurately classify brain tumors from MRI scans using Python and TensorFlow.
+  * **🧠 Concepts:** Normalization, `categorical_crossentropy` (loss), `softmax` (activation), `adam` (optimizer).
+  * **⚒️ Tools:** TensorFlow, PIL, CV2, Scikit-learn
+
+* **[Churn Prediction](https://github.com/nathanbehailuz/churn-prediction)**
+
+  * **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.
+  * **🧠 Concepts:** Data preprocessing, exploratory data analysis, feature engineering, model selection, training, and evaluation
+  * **⚒️ Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
 
 ### Web Development
 
