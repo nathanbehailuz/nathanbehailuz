@@ -1,85 +1,48 @@
-###### as of May 2025
+# Nathan Behailu
 
-# Hello World!
-
-I'm Nathan, a rising senior at New York University majoring in Computer Science, with minors in Applied Mathematics. I currently serve as a Machine Learning Research Assistant at the [Center for Responsible AI](https://airesponsibly.net) under Professor [Julia Stoyanovich](https://engineering.nyu.edu/faculty/julia-stoyanovich), where we focus on multi-group intersectional fairness in classification problems. Our work includes implementing and evaluating fairness-aware algorithms, designing experiments, refining predictive models, and analyzing fairness thresholds and regions.
-
-In parallel, I work as a Big Data Research Assistant with Professor Gabriel-Kohler Derrick at NYU and Professor Jeremy Bowels at University College London. This project involves extracting structured data from over 40,000 pages of historical records on precolonial Ireland using OCR, followed by extensive post-processing and socio-economic analysis.
+Computer Science & Applied Mathematics graduate from NYU Abu Dhabi. I build full-stack products and applied ML systems.
 
 
-## Skills and Interests
+## Skills
 
-* **AI / Machine Learning**
-* **Data Science**
-* **Software Engineering**
-* **Web Development**
+AI / ML · Data Science · Software Engineering · Web Development
 
-## Languages and Tools
+**Languages:** Python, C++, C, JavaScript, HTML, CSS  
+**Libraries:** PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, React, Bootstrap  
+**Tools:** Git, Docker, Jupyter, VS Code
 
-* **Programming Languages:** Python, C++, C, JavaScript, HTML, CSS
-* **Frameworks and Libraries:** PyTorch, TensorFlow, Scikit-learn, Matplotlib, NumPy, Pandas, Bootstrap, React, Pygame, Google APIs, STL
-* **Tools:** Git, GitHub, Docker, Jupyter Notebook, VSCode
+## Experience
 
-### Currently Building
+| Role | Org | Dates |
+| --- | --- | --- |
+| Builder (Software Engineer) | Caisson Ventures | Sep 2025 – Present |
+| Federated Learning RA | NYU, MOMA Lab | May 2025 – Jul 2025 |
+| Big Data RA | NYU | Jan 2024 – May 2025 |
+| Machine Learning RA | Center for Responsible AI, NYU | Sep 2024 – Feb 2025 |
 
-#### [AutoVert](https://github.com/nathanbehailuz/swe-final-project)  
-*A full-featured vehicle management and diagnostic app built using Flutter and Firebase.*
+## Some Cool Projects
 
-- 🔧 Manage vehicles, store VINs, track maintenance  
-- 🧠 AI-powered diagnostics (text, voice, image input)  
-- 🗺️ Locate nearby garages and generate/share PDF reports  
-- 🔔 Schedule maintenance and receive service reminders  
+### [World Cup Predictor](https://github.com/nathanbehailuz/world_cup_pred) · [Live](https://world-cup-26-pred.vercel.app/)
+71.2% accurate ML pipeline predicting FIFA World Cup 2026 outcomes from 49K+ matches across 336 teams. XGBoost with 17 point-in-time features, evaluated on a 2,245-match temporal holdout.
 
-## Favorite Projects
+`Python` · `XGBoost` · `Pandas` · `Scikit-learn`
 
-### AI/ML/DS
-* **[ML from Scratch](https://github.com/nathanbehailuz/ml-from-scratch)**
+### [AutoVert](https://github.com/nathanbehailuz/autovert) · [Demo](https://drive.google.com/file/d/1eC5e5ExWpBts_3Za4W-M1VKsAbIpUUDK/view)
+Cross-platform Flutter app for AI vehicle diagnostics and repair cost estimation (GPT-4 / Gemini), with multimodal input, Firebase, and Google Maps.
 
-  * **🎯 Goal:** Build machine learning algorithms from the ground up in Python to deepen understanding of their core logic and mathematical foundations.
-  * **🧠 Concepts and Projects:**
+`Flutter` · `Firebase` · `GPT-4` · `Gemini`
 
-    * **Linear Regression:** Boston Housing – Gradient descent, normalization
-    * **Logistic Regression:** Breast Cancer – Sigmoid, binary classification
-    * **Support Vector Machines:** Margin-based classification – Kernels, soft/hard margin
-    * **Decision Trees:** Spam & Iris datasets – Gini impurity, recursive tree building
-    * **KNN & K-Means Clustering:** Image compression & classification
-    * **Deep Neural Networks:** CIFAR-10 – Backpropagation, Inception model
-    * **GANs:** Anime face generation – Generator-discriminator dynamics
+### [Open Signal](https://github.com/nathanbehailuz/InsideX) · [Live](https://open-signal-sec.vercel.app)
+Detects high-conviction insider trades from SEC Form 4 filings with LightGBM scoring; FastAPI + React stack with ~5% top-decile alpha in backtests.
 
-* **[AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)**
+`FastAPI` · `LightGBM` · `React` · `PostgreSQL`
 
-  * **🎯 Goal:** Develop an AI agent that learns to play Flappy Bird using the NEAT (NeuroEvolution of Augmenting Topologies) reinforcement learning technique.
-  * **🧠 Concepts:** NeuroEvolution of Augmenting Topologies, reinforcement learning, game development, object-oriented programming
-  * **⚒️ Tools:** Pygame, NEAT
-   
-* **[Brain Tumor Detection](https://github.com/nathanbehailuz/brain-tumor-detection)**
+### [AI Plays Flappy Bird](https://github.com/nathanbehailuz/AI-plays-Flappy-Bird)
+NEAT neuroevolution agent that learns Flappy Bird in Pygame, averaging 30+ score.
 
-  * **🎯 Goal:** Training a CNN model (with a Flask web app) to accurately classify brain tumors from MRI scans using Python and TensorFlow.
-  * **🧠 Concepts:** Normalization, `categorical_crossentropy` (loss), `softmax` (activation), `adam` (optimizer).
-  * **⚒️ Tools:** TensorFlow, PIL, CV2, Scikit-learn
-
-* **[Churn Prediction](https://github.com/nathanbehailuz/churn-prediction)**
-
-  * **🎯 Goal:** Create a machine learning model to predict customer churn for a telecom company using a Kaggle dataset, aiding businesses in retaining customers and reducing revenue loss.
-  * **🧠 Concepts:** Data preprocessing, exploratory data analysis, feature engineering, model selection, training, and evaluation
-  * **⚒️ Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
-
-### Web Development
-
-* **[Amazon Replica](https://github.com/nathanbehailuz/amazon-replica)**
-
-  * **🎯 Goal:** Develop a clone of the Amazon website, focusing on replicating its design and functionalities.
-  * **🧠 Concepts:** Model-View-Controller (MVC) framework
-  * **⚒️ Tools:** HTML, CSS, JavaScript, Date.js, Jasmine
-
-## Work Experience
-
-* **Machine Learning Research Assistant**
-  *Center for Responsible AI, NYU*
-  Researching multi-group intersectional fairness to develop models that mitigate bias in classification problems, including analyzing fairness regions and thresholds. Implementing and evaluating fairness-aware algorithms, designing experiments, refining models, and analyzing fairness outcomes.
-
-* **Big Data Research Assistant**
-  *NYU Abu Dhabi*
-  Conducting research on datasets from colonial Ireland (37k+ pages, 1.5mn+ entries), optimizing data processing pipelines, extracting meaningful insights, and running statistical analysis on the results.
+`Python` · `Pygame` · `NEAT`
 
 
+## Contact
+
+[nz2212@nyu.edu](mailto:nz2212@nyu.edu) · [LinkedIn](https://www.linkedin.com/in/nathan-behailu/) · [GitHub](https://github.com/nathanbehailuz)
